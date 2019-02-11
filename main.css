@@ -172,6 +172,10 @@ p {
 	background:linear-gradient(0deg,rgba(0,186,179,.78),rgba(0,87,184,.78)),url();
 }
 
+footer p{
+	font-size: 16px !important;
+}
+
 /* media - hide hamburger menu at 775px
 
 media - hide .dropdown-menu class */
